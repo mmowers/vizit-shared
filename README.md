@@ -1,3 +1,3 @@
 # vizit-shared
 
-See it here: https://mmowers.github.io/vizit-shared/
+https://mmowers.github.io/vizit-shared/vizit_plcoe-vs-core_2023-04-19.html
